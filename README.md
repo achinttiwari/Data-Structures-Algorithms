@@ -1,2 +1,2 @@
 # Data-Structures-Algorithms
-💡 My journey from novice to expert in DSA using Python. Consistently solving LeetCode problems to build strong algorithmic foundations for AI &amp; ML.
+🚀 Repository for tracking my daily progress in Data Structures, Algorithms, and problem-solving. Automated sync via LeetHub.
